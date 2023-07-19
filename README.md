@@ -7,7 +7,7 @@
  
 
 ## Estatísticas
-<div align="left">
+<div align="center">
   <a href="http://www.github.com/Pedro-bnogueira">
   
   <img src="https://github-readme-stats-pedro-bnogueira.vercel.app/api?username=Pedro-bnogueira&show_icons=true&hide_title=true&title_color=40b581&text_color=ffffff&icon_color=40b581&bg_color=1c1917&disable_animations=false&hide_border=true&show_icons=true" height="140" alt="Pedro-bnogueira's GitHub stats" />
